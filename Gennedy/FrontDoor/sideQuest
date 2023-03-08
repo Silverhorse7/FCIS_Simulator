@@ -1,0 +1,17 @@
+the old guy in the building saw you, as a young student, u are obligated to do this side quest.
+
+the side quest is to get the cat in the top floor and get it back here ( first floor).
+
+
+how to move objects in linux ? 
+
+-using a command called mv, mv + filename + placetoMove.
+
+currently the old guy wants you to move it here.
+
+to know where is here exactly in the system, u can use pwd (print working directory).
+
+after that u can do mv + cat + current directory.
+
+
+
