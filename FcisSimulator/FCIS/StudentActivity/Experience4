@@ -1,0 +1,4 @@
+It's time to create your own calendar. You can do it by using $touch day.
+# touch : creates an empty file.                                                             
++ > Tip :  you can use $touch day1 day2 to create two files at one command.
+                           

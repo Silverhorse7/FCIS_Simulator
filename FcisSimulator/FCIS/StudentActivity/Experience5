@@ -1,0 +1,8 @@
+you can add subjects to a specific day 
+by using $ echo "Physics" > myDayName
+But beacause you want to display it inside your day you used the redirection operator >   
+> : It's a redirection operator which redirects our output to the file.                     
+> Note : > : It will override what’s in the file. To avoid that use >>               
+>> :It's a redirection operator which appends to a file without deleting its content 
+Now your turn show us your calendar ^_^ .
+

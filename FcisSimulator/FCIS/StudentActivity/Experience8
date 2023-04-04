@@ -1,0 +1,18 @@
+well for some reason, another student wanted to take your subject.
+
+the good person u are again, u gave it to him.
+
+now you want to remove the directory/folder u just made a few minutes ago.
+
+the command for this is : $ rmdir subjectName                                                             
+rmdir : Removes a directory                                                
+you saw an error saying "Directory not empty". you didn't know what to    
+do, so you tried to type $ rm, but you saw a different error saying           
+"Is a directory". you wondered if there was anything that would help you      
+solve this problem until you found the magic solution, which was $ man rm     
+man : It will show you the manual of the command name                      
+the man page told me that                                                  
+the flag -r : removes directories and their contents recursively.          
+Now you can delete the whole subject material drive by typing $ rm -r subjectName
+                   
+

@@ -1,0 +1,10 @@
+1. Tweets Preprocessing --> Remove ID and time
+
+2. One Word per line 
+
+3. Replace Words 
+
+4. Display Student name and ID 
+
+
+Linux Food:  $ . ./start.sh
